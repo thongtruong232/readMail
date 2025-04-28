@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'channels',
+    'channels_redis',
     'mail',
 ]
 
@@ -44,15 +45,26 @@ MIDDLEWARE = [
 
 # Channels
 ASGI_APPLICATION = 'readmailweb.asgi.application'
-# Lấy thông tin kết nối từ Redis Cloud
+
+# Redis Cloud configuration
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.redis.RedisCache',
+        'LOCATION': 'redis://default:nXGpsqPo0VHKzEIXqmxCQppVplBV88m6@redis-14546.c334.asia-southeast2-1.gce.redns.redis-cloud.com:14546/0',
+    }
+}
+
 CHANNEL_LAYERS = {
     'default': {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
         'CONFIG': {
-            "hosts": [('127.0.0.1', 6381)],  # Hoặc Redis Cloud, nếu bạn dùng
+            "hosts": [
+                "redis://default:nXGpsqPo0VHKzEIXqmxCQppVplBV88m6@redis-14546.c334.asia-southeast2-1.gce.redns.redis-cloud.com:14546/0"
+            ],
         },
     },
 }
+
 # URL Configuration
 ROOT_URLCONF = 'readmailweb.urls'
 

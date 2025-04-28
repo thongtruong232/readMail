@@ -114,7 +114,7 @@ def parse_multiple_data(input_string):
 
 def read_mail(email, refresh_token, client_id, email_index, request):
     try:
-        url = "http://localhost:5000/api/mail/read"
+        url = "http://207.148.69.229:5001/api/mail/read"
         payload = {
             "Email": email,
             "RefreshToken": refresh_token,
