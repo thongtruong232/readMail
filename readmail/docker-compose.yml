@@ -12,6 +12,7 @@ services:
       - REDIS_PORT=6379
     volumes:
       - ./:/app
+      - static_volume:/app/static
     restart: always
     networks:
       - app-network
@@ -19,10 +20,13 @@ services:
   redis:
     image: redis:6.2-alpine
     ports:
-      - "6379:6379"
+      - "6380:6379"
     networks:
       - app-network
 
 networks:
   app-network:
-    driver: bridge 
+    driver: bridge
+
+volumes:
+  static_volume: 
