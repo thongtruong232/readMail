@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # === CONFIGURATION ===
-PROJECT_DIR="/readmail"              # Thư mục chứa dự án Django (theo cấu trúc của bạn)
-VENV_DIR="/.venv"            # Thư mục chứa virtualenv (nếu có)
+PROJECT_DIR="$(pwd)"              # Thư mục chứa dự án Django
+VENV_DIR=".venv"            # Thư mục chứa virtualenv
 DJANGO_MODULE="readmailweb.asgi:application"  # Module ASGI của dự án
-BRANCH="master"                         # Nhánh Git bạn sử dụng (có thể là 'main', 'master' hoặc nhánh khác)
+BRANCH="master"                         # Nhánh Git bạn sử dụng
 
 # === DEPLOY PROCESS ===
 echo "Bắt đầu quá trình deploy..."
@@ -21,21 +21,23 @@ echo "Cập nhật mã nguồn từ Git repository..."
 git fetch origin
 git reset --hard origin/$BRANCH
 
-#  Build lại Docker image
+# 4. Cài đặt các gói mới (nếu có thay đổi trong requirements.txt)
+echo "Cài đặt dependencies mới..."
+pip install -r requirements.txt
+
+# 5. Build lại Docker image
 echo "Build lại Docker image..."
 docker compose build
 
-# Dừng và xóa các container cũ + volume (static, cache...)
+# 6. Dừng và xóa các container cũ + volume (static, cache...)
 echo "Dọn dẹp container cũ..."
 docker compose down -v
 
-
-# Khởi động lại toàn bộ hệ thống
+# 7. Khởi động lại toàn bộ hệ thống
 echo "Khởi động lại hệ thống..."
 docker compose up -d
 
-
-# Chờ vài giây để Django container sẵn sàng
+# 8. Chờ vài giây để Django container sẵn sàng
 echo "Chờ container sẵn sàng..."
 sleep 5
 
@@ -47,7 +49,7 @@ pip install -r requirements.txt
 
 # Chạy migrate & collectstatic bên trong container
 echo "Chạy migrate và thu thập static files..."
-docker compose exec $PROJECT_NAME bash -c "
+docker compose exec web bash -c "
   python manage.py migrate &&
   python manage.py collectstatic --noinput
 "
