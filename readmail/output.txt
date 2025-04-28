@@ -1,0 +1,1170 @@
+Email 1:
+From: noreply@notifications.textnow.com
+Subject: Verify your email
+Date: 2025-04-09 13:54
+Body:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en" style="color-scheme: light dark; supported-color-schemes: light dark;"><head><!--[if gte mso 9]><xml>
+			<o:OfficeDocumentSettings>
+			<o:AllowPNG/>
+			<o:PixelsPerInch>96</o:PixelsPerInch>
+			</o:OfficeDocumentSettings>
+			</xml>
+		<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="HandheldFriendly" content="true">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width">
+
+							
+				<title>TextNow</title>
+        
+		
+		
+
+<!--[if !mso]><!-->
+    
+<!--<![endif]-->
+<!--[if mso]>
+    <style>
+        table{
+            border-collapse: collapse;
+        }
+
+                span.MsoHyperlink {
+            mso-style-priority:99;
+            color:inherit;
+        }
+        span.MsoHyperlinkFollowed {
+            mso-style-priority:99;
+            color:inherit;
+        }
+        ol li, ul li {margin-top:0px !important;margin-bottom:0px !important;}
+    </style>
+<![endif]-->
+
+<!--[if gte mso 9]>
+    <style>
+        .st-mso-full-width{
+            width: 100%;
+        }
+            </style>
+<![endif]-->
+
+
+<!--[if IEMobile]>
+    <style type="text/css">
+        .st-mso-full-width{
+            width: 100%;
+        }
+    </style>
+<![endif]-->
+
+
+    
+
+
+	<style>a:hover {
+text-decoration: none !important; outline: none;
+}
+a:visited {
+text-decoration: none !important; outline: none;
+}
+@media screen and (max-width: 480px) {
+  .st-col {
+    width: 100% !important;
+  }
+  .st-mobile-full-width {
+    width: 100% !important;
+  }
+  .st-module-wrapper-table {
+    width: 100% !important;
+  }
+  .st-wrapper {
+    width: 100% !important;
+  }
+  .st-wrapper-table {
+    width: 100% !important;
+  }
+  .st-col {
+    padding: 0 !important;
+  }
+  .st-resize {
+    width: 100% !important;
+  }
+  .st-mobile-width-constraint {
+    display: block !important; height: auto !important;
+  }
+  .st-resize {
+    display: block !important; height: auto !important;
+  }
+  .st-mobile-width-constraint {
+    max-width: 100% !important;
+  }
+  .st-equal-height {
+    height: auto !important;
+  }
+  .st-height-auto {
+    height: auto !important;
+  }
+  .st-hide-desktop {
+    display: table-row !important;
+  }
+  .st-hide-mobile {
+    display: none !important;
+  }
+  .st-mobile-inline {
+    display: inline !important;
+  }
+  .show-img-mobile {
+    display: table-row !important; width: 100% !important; float: none; overflow: visible !important; height: auto !important;
+  }
+  .st-dynamic-656-6 {
+    background-image: none !important;
+  }
+  .st-dynamic-704-32 {
+    padding-bottom: 20px !important; padding-left: 0px !important; padding-right: 0px !important;
+  }
+  .st-dynamic-696-33 {
+    padding-bottom: 0px !important;
+  }
+  .st-dynamic-718-58 {
+    padding-top: 20px !important;
+  }
+  .st-dynamic-718-61 {
+    padding-bottom: 20px !important;
+  }
+  .st-dynamic-718-65 {
+    width: 100% !important; max-width: 92px !important;
+  }
+  u + .st-email-body .st-dynamic-718-65 img {
+    width: 100% !important; max-width: 92px !important;
+  }
+  .st-dynamic-718-68 {
+    width: 100% !important; max-width: 108px !important;
+  }
+  u + .st-email-body .st-dynamic-718-68 img {
+    width: 100% !important; max-width: 108px !important;
+  }
+  .st-wrapper-table {
+    width: 100% !important; max-width: 480px !important; margin: 0 auto;
+  }
+}
+@media (max-width:599px) and (min-width:481px) {
+  .st-module-wrapper-table {
+    margin-top: -1px !important;
+  }
+}
+@media all and (max-width: 480px) {
+  .mob-fz-30 p {
+    font-size: 30px !important;
+  }
+  .mob-fz-30 span {
+    font-size: 30px !important; line-height: 115% !important;
+  }
+  .mob-fz-35 p {
+    font-size: 35px !important; line-height: 115% !important;
+  }
+  .mob-fz-35 span {
+    font-size: 35px !important;
+  }
+  .mob-mw-30 {
+    width: 30px !important; min-width: 30px !important; max-width: 30px !important;
+  }
+  .mob-mw-30 img {
+    width: 30px !important; min-width: 30px !important; max-width: 30px !important;
+  }
+  .mob-mw-40 {
+    width: 40px !important; min-width: 40px !important; max-width: 40px !important;
+  }
+  .mob-mw-40 img {
+    width: 40px !important; min-width: 40px !important; max-width: 40px !important;
+  }
+  .mob-mw-50 {
+    width: 50px !important; min-width: 50px !important; max-width: 50px !important;
+  }
+  .mob-mw-92 img {
+    width: 92px !important; min-width: 92px !important; max-width: 92px !important; height: 32px !important;
+  }
+  .mob-mw-108 img {
+    width: 108px !important; min-width: 108px !important; max-width: 108px !important; height: 32px !important;
+  }
+  .mob-mw-75 img {
+    width: 75px !important; min-width: 75px !important; max-width: 75px !important; height: 75px !important;
+  }
+  .center-element td {
+    margin: 0 auto !important; text-align: center !important;
+  }
+  .center-element {
+    text-align: center !important;
+  }
+  .center-element table {
+    margin: 0 auto !important;
+  }
+}
+@media all and (max-width: 360px) {
+  .mob-mw-75 img {
+    width: 75px !important; min-width: 75px !important; max-width: 75px !important; height: 75px !important;
+  }
+  .mob-mw-232 a {
+    width: 232px !important; min-width: 232px !important; max-width: 232px !important;
+  }
+  .mob-mw-92 img {
+    width: 92px !important; min-width: 92px !important; max-width: 92px !important; height: 32px !important;
+  }
+  .mob-mw-108 img {
+    width: 108px !important; min-width: 108px !important; max-width: 108px !important; height: 32px !important;
+  }
+  .mob-mw-30 {
+    width: 30px !important; min-width: 30px !important; max-width: 30px !important;
+  }
+  .mob-mw-30 img {
+    width: 30px !important; min-width: 30px !important; max-width: 30px !important;
+  }
+  .mob-mw-40 {
+    width: 40px !important; min-width: 40px !important; max-width: 40px !important;
+  }
+  .mob-mw-40 img {
+    width: 40px !important; min-width: 40px !important; max-width: 40px !important;
+  }
+  .mob-mw-50 {
+    width: 50px !important; min-width: 50px !important; max-width: 50px !important;
+  }
+  .center-element td {
+    margin: 0 auto !important; text-align: center !important;
+  }
+  .center-element {
+    text-align: center !important;
+  }
+  .center-element table {
+    margin: 0 auto !important;
+  }
+}
+@media (prefers-color-scheme: light) {
+  .light-img {
+    display: block !important;
+  }
+  .dark-img {
+    display: none !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .dark-img {
+    display: block !important;
+  }
+  .light-img {
+    display: none !important;
+  }
+  .bg-color-violet {
+    background-color: #C0A9F7 !important;
+  }
+  .bg-color-violet td {
+    background-color: #C0A9F7 !important;
+  }
+  .bg-color-violet td a {
+    background-color: #C0A9F7 !important;
+  }
+  .bg-dark {
+    background-color: #000000 !important;
+  }
+  .text-dark p {
+    color: #ffffff !important;
+  }
+  .text-dark p span {
+    color: #ffffff !important;
+  }
+  .text-dark p span a {
+    color: #ffffff !important;
+  }
+  .text-dark ol li {
+    color: #ffffff !important;
+  }
+  .text-dark ul li {
+    color: #ffffff !important;
+  }
+  .bg-color-table {
+    background-color: #313133 !important;
+  }
+  .bg-color-table td {
+    background-color: #313133 !important;
+  }
+  .bg-color-table table {
+    background-color: #313133 !important;
+  }
+  td.div-flexible {
+    background-color: #D9D9D9 !important;
+  }
+}
+</style>
+</head>
+	<body class="st-email-body st-center-gmail" style="width: 100% !important; -webkit-text-size-adjust: 100%; margin: 0 auto; padding: 0px;" bgcolor="#ffffff">
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Verify your email address to continue.</div>
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ ͏ ‌ &nbsp;   ﻿ </div>
+							<div lang="en" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;" xml:lang="en">
+		
+					<img style="max-height: 1px; min-height: 1px; display: block; width: 600px; min-width: 600px;" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6609c95b038cbe004a796888/original.gif?1711917403" alt="" width="600" height="1" border="0">		
+												
+						<div style="font-size: 0px; display: none; visibility: hidden; opacity: 0; color: transparent; max-height: 0px; height: 0; width: 0; mso-hide: all; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+						Verify your email address to continue.
+																 ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ &nbsp;
+														</div>
+						<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#F4F4F4" class="st-wrapper-table" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- SPACER starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#F4F4F4" valign="top" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" class="st-mso-full-width st-mobile-full-width" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td align="center" valign="top" width="600" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr class="st-hide-mobile">
+                      <td width="100%" valign="top" align="center" bgcolor="#F4F4F4" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; padding: 0px;">
+                        <p height="24" width="100%" style="mso-line-height-rule: exactly; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-size-adjust: 100%; width: 100%; height: 24px; max-height: 24px; font-size: 24px; line-height: 24px; margin: 0px; padding: 0;">
+                          &nbsp;
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- SPACER ends here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- Header starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#FFFFFF" valign="top" class="bg-dark" style="width: 100%; padding-top: 15px; padding-bottom: 15px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" class="st-mso-full-width st-mobile-full-width" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td align="center" valign="top" width="600" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="100%" align="center" valign="top" class="__scope__muaq5" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" style="width: 100% !important; max-width: 100% !important; min-width: 100% !important; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td align="center" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                              <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <a href="https://clicks.textnow.com/f/a/fGIlXwZEDrH7m9I4xXKcRg~~/AAQRxRA~/ZXK0ULNuQYUwaKWr_YS0Ms3IO_JEncT0aQ5lyHLS8cGxWCZ_l9XHfPdUu3Ao03rkOYWmlMwIvdMTQwcsBj4rR_VV57105ni2Fw0MTmER9gSNlT-85eKSe_lfF6OSoCP6FJVWwrXEHpb-i4N562rYcA~~" title="TextNow" target="_new" style="text-decoration: none !important; outline: none;">
+                                  <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/664b5db0c6537-1716215216.8123.jpg" width="145" alt="TextNow" style="width: 145px !important;">
+                                </a>
+                              </div>
+                              <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <!--[if !mso]><! -->
+                                <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                  <a href="https://clicks.textnow.com/f/a/zH22VyMNrrfw_CvmR3VqwA~~/AAQRxRA~/ZXK0ULNuQYUwaKWr_YS0Ms3IO_JEncT0aQ5lyHLS8cF8__snxJ2boa7dgar_lbC1AWTV4cIZuZOJZzmlp1poAAPQES9gJqW-GE9RDjEyD6KbC6lfLNTgrYkkqZz5ebfQM7QfjwgWsTKChLY9uwMzzA~~" title="TextNow" target="_new" style="text-decoration: none !important; outline: none;">
+                                    <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6657414aaa313-1716994378.6971.png" width="145" alt="TextNow" style="width: 145px !important;">
+                                  </a>
+                                </div>
+                                <!--<![endif]-->
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- Header ends here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- Hero Image starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#FFFFFF" valign="top" class="ce-dark-mode" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" class="st-mso-full-width st-mobile-full-width" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td align="center" valign="top" width="600" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="100%" valign="top" align="center" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a href="https://clicks.textnow.com/f/a/Lk5-M2JYq3XInfzmiyLDPA~~/AAQRxRA~/ZXK0ULNuQYUwaKWr_YS0Ms3IO_JEncT0aQ5lyHLS8cEA1qv-CFnxjvppS8Pb65k9_qzKfAHjHyHHJTBHdoz2usrdYUSi5vBeYJbM8ZV4VdZbKVlwYyzqJcYru6SHAUySkh7sAVvZ-Ey-z6Jvoejk5Q~~" target="_blank" style="display: block; text-decoration: none !important; outline: none;"><img border="0" valign="top" width="600" src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/665dff3485e5d-1717436212.5484.jpg" height="200" alt="TextNow" title="" class="st-hide-mobile st-resize" style="display: block; width: 600px; max-width: 100%; border-width: 0px;"> <!--[if !mso 12]><!-->
+                          <div class="show-img-mobile" style="display: none; width: 0px; overflow: hidden; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/665f3e21f31b6-1717517857.9958.jpg" border="0" width="600" valign="top" height="200" alt="TextNow" title="" class="st-resize" style="display: block; max-width: 100%; height: auto; width: 600px; border-style: none;"></div> <!--<![endif]-->
+                        </a></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- Hero Image ends here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- Headlines Text starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#FFFFFF" valign="top" class="bg-dark" style="width: 100%; padding-left: 24px; padding-right: 24px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="552" class="st-mso-full-width st-mobile-full-width" style="width: 552px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td align="center" valign="top" width="552" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="100%" valign="top" align="center" style="padding-top: 24px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <p height="0" width="100%" style="mso-line-height-rule: exactly; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-size-adjust: 100%; width: 100%; height: 0px; max-height: 0px; font-size: 0px; line-height: 0px; margin: 0px; padding: 0;">
+                          &nbsp;
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top" align="left" class="aligned-bullets text-dark" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 25px; font-weight: 600; letter-spacing: normal; line-height: 30px; padding-bottom: 24px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <p style="margin: 0px; padding: 0;"><span style="font-size: 25px; line-height: 30px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">Welcome to TextNow!</span></p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top" align="left" class="aligned-bullets text-dark" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 25px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <p style="margin: 0px; padding: 0;">Thanks for signing up for TextNow.<br><br>Please confirm that this is your email address and that you're a real&nbsp;person.&nbsp;</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- Headlines Text ends here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- CTA starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#FFFFFF" valign="top" class="bg-dark st-dynamic-696-33" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; padding: 24px;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="552" class="st-mso-full-width st-mobile-full-width" style="width: 552px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td align="center" valign="top" width="552" class="st-dynamic-704-32" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="100%" valign="top" align="center" class="mob-mw-232" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+<!--[if mso]>
+        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" style="height:38pt; v-text-anchor:middle; width:162pt; mso-position-horizontal: center" arcsize="61%" strokecolor="#C0A9F7" strokeweight="0pt" fillcolor="#C0A9F7">
+          <w:anchorlock/>
+          <v:textbox inset="0,0,0,0"><p style="text-align: center; font-family: Helvetica, Arial, Sans-serif; color: #000000; font-size: 15px; font-weight: normal; letter-spacing: normal; mso-line-height-rule: exactly; line-height: 17px"><![endif]-->
+                        <!--[if !mso]><!-->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="215" style="width: 215px; border-collapse: initial; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" bgcolor="#C0A9F7" align="center" height="50" valign="middle" style="mso-padding-alt: 0px 12px 0px 12px; border-radius: 30px; height: 50px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+<!--<![endif]--> <a width="215" href="https://94lr.adj.st/email_verification?lid=ppkxiebhrvpw&amp;token=1FHTppC6iUszZDh6u6yh3hvIjXERFRpkdEH6xQaMIzPFkdV3ePacsfeVBG0eqH_13jfDs9dLrGPY5dHd90wLq1vcIdngi7rT6xEo_Hs9-UjjjbZO_9bksisR5EYUh8IEt9gQq5clu3gZ68z7rWT7yodzoGfGzNQM0-JxzttPlsf5W50L5mh2GH2XrRHBSAZAwOPp93tPB-8j2meVnRwpiOmyNFsvUJgNNMRiskSIDgnRm0Ikdw3YQDN_E42yxz76YBnARxNqIWoqrrTvSZH60pbToebb2v0np5eo-hq0oR6hogvDsSwAlLmN37YcgYb3EOUSH64gPlE355mxSrBH2Q&amp;adj_t=1mangoxz_1mhftpz1&amp;adj_redirect=https%3A%2F%2Fwww.textnow.com%2Fsettings%2Femail-verification%2Fverify%3Ftoken%3D1FHTppC6iUszZDh6u6yh3hvIjXERFRpkdEH6xQaMIzPFkdV3ePacsfeVBG0eqH_13jfDs9dLrGPY5dHd90wLq1vcIdngi7rT6xEo_Hs9-UjjjbZO_9bksisR5EYUh8IEt9gQq5clu3gZ68z7rWT7yodzoGfGzNQM0-JxzttPlsf5W50L5mh2GH2XrRHBSAZAwOPp93tPB-8j2meVnRwpiOmyNFsvUJgNNMRiskSIDgnRm0Ikdw3YQDN_E42yxz76YBnARxNqIWoqrrTvSZH60pbToebb2v0np5eo-hq0oR6hogvDsSwAlLmN37YcgYb3EOUSH64gPlE355mxSrBH2Q" target="_blank" title="Verify My Email" bgcolor="#C0A9F7" valign="middle" style="mso-line-height-rule: exactly; text-align: center; font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 15px; font-weight: normal; letter-spacing: normal; line-height: 23px; padding-right: 12px; padding-left: 12px; text-decoration: none !important; display: table-cell; width: 215px; height: 50px; border-radius: 30px; vertical-align: middle; box-sizing: content-box; outline: none;"> <span style="color: #000000; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px;"><span style="font-size: 15px; line-height: 23px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">Verify My Email</span></span></a> <!--[if !mso]><!-->
+</td>
+                          </tr>
+                        </table> <!--<![endif]-->
+                        <!--[if mso]>
+            </p></v:textbox>
+          </v:roundrect>
+        <![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- CTA ends here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- Headlines Text starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#FFFFFF" valign="top" class="bg-dark" style="width: 100%; padding-left: 24px; padding-right: 24px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="552" class="st-mso-full-width st-mobile-full-width" style="width: 552px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td align="center" valign="top" width="552" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="100%" valign="top" align="left" class="aligned-bullets text-dark" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 25px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <p style="margin: 0px; padding: 0;">If you think you received this email by mistake, please ignore it.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- Headlines Text ends here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="center" class="st-dynamic-656-6" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"> <!-- FOOTER TRANSACTIONAL starts here -->
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+        <tr>
+          <td width="100%" bgcolor="#FFFFFF" valign="top" class="bg-dark" style="width: 100%; padding-bottom: 24px; padding-left: 24px; padding-right: 24px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+              <tr>
+                <td width="100%" valign="top" align="left" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="552" class="st-mso-full-width st-mobile-full-width" style="width: 552px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td align="center" valign="top" width="552" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" valign="top" align="center" style="padding-top: 24px; padding-bottom: 24px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <p height="1" width="100%" style="mso-line-height-rule: exactly; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-size-adjust: 100%; width: 100%; height: 1px; max-height: 1px; background-color: #ebebeb; font-size: 1px; line-height: 1px; margin: 0px; padding: 0;">
+                                &nbsp;
+                              </p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="100%" align="center" valign="top" class="__scope__0vp1" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <table width="100%" align="left" border="0" cellpadding="0" cellspacing="0" style="width: 100% !important; max-width: 100% !important; min-width: 100% !important; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <tr>
+                                  <td align="left" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                                    <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <a href="https://clicks.textnow.com/f/a/AyXoAX-Iqnfnz-0YErXRBg~~/AAQRxRA~/ZXK0ULNuQYUwaKWr_YS0Ms3IO_JEncT0aQ5lyHLS8cF1JlUnA_U0yLCfKJZjqftjQWXbskheIT0DSTxaUOtbcdgUVSCVTf7a5MMx7xu6dbg7S_Wh94SHkUUo0qFdy_hFqYCd2uxxfB3uGCq7liuxJg~~" title="Title" target="_new" style="text-decoration: none !important; outline: none;">
+                                        <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6604265a37202-1711547994.2258.jpg" width="130" alt="TextNow" style="width: 130px !important;">
+                                      </a>
+                                    </div>
+                                    <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <!--[if !mso]><! -->
+                                      <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                        <a href="https://clicks.textnow.com/f/a/XZus_0pS5qLfGXc4RyhN5Q~~/AAQRxRA~/ZXK0ULNuQYUwaKWr_YS0Ms3IO_JEncT0aQ5lyHLS8cEibFLBifdPivB4LrcTUfeFyLfLS3Aw6Lws-kGbFnOMB8jOZuMr8L6NGHzgJNjdz_e5EGIBn-CrZZFzaj4jCvL1ApiPM7mcVU1iB9kuulGZWw~~" title="Title" target="_new" style="text-decoration: none !important; outline: none;">
+                                          <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6604266677c55-1711548006.4906.png" width="130" alt="TextNow" style="width: 130px !important;">
+                                        </a>
+                                      </div>
+                                      <!--<![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="100%" valign="top" align="left" class="text-dark aligned-bullets" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 18px; font-weight: 600; letter-spacing: normal; line-height: 25px; padding-bottom: 20px; padding-top: 20px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <p style="margin: 0px; padding: 0;" align="left"><span style="font-size: 18px; line-height: 25px; color: #000000; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a style="color: #000000; text-decoration: none !important; outline: none;" href="https://clicks.textnow.com/f/a/iqcLbFbb0neX8Rz4cqH_iw~~/AAQRxRA~/ZXK0ULNuQYUwaKWr_YS0Ms3IO_JEncT0aQ5lyHLS8cEizVcVo2FAU3p2RzV_nnHLEesJSHtaH8eIefUdfWQJfMSlrwTEDBLCctWGVadSi7BbDxPTYtTWHoGvEfbKWOKCcDsEm5hwHQIoyjbz5N9S8Q~~">Communication belongs to everyone</a></span></p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" align="left" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left" width="100%" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="50" valign="middle" class="mob-mw-50" style="width: 50px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" align="center" valign="top" class="__scope__g4j0h" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <table width="100%" class="ce-dark-mode" border="0" cellpadding="0" cellspacing="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <tr>
+                                  <td align="left" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                                    <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <a href="https://clicks.textnow.com/f/a/UcshmjMCQdu-3n5ydGas-w~~/AAQRxRA~/WrXzAU2o9UrAnngVvgI9dOcI8wgRPYJ0oJxVLe0qpp0QUCZvqxJXRr5sB1usQF6WOslA6k34aX7wFJa2-5Ix8o798oWA7j_4EqK7FFWCUh3fm2Uh82jsXNZI_bHwSZbrr2iXLNjOMDUr6odfnvG6Wg~~" title="TextNow - Facebook" target="_new" style="text-decoration: none !important; outline: none;">
+                                        <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/66632470a5852-1717773424.678.png" width="32" height="32" alt="Facebook" style="width: 32px !important; height: 32px !important;">
+                                      </a>
+                                    </div>
+                                    <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <!--[if !mso]><! -->
+                                      <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                        <a href="https://clicks.textnow.com/f/a/oFLz4WfI6Sldban4uWQ-Ag~~/AAQRxRA~/WrXzAU2o9UrAnngVvgI9dOcI8wgRPYJ0oJxVLe0qpp2FhwjiHhPeFOKD8dg_JYj3ccH-fR2SjrhUHDz_x--Pm-QUHwE4rtUzOJK8PczVAYUk0H63KWB17pupVv_CgGBlEtSfiPlk0n5ib6KdZW8jFQ~~" title="TextNow - Facebook" target="_new" style="text-decoration: none !important; outline: none;">
+                                          <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/66632479eec1a-1717773433.9779.png" width="32" height="32" alt="Facebook" style="width: 32px !important; height: 32px !important;">
+                                        </a>
+                                      </div>
+                                      <!--<![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td width="50" valign="top" class="mob-mw-50" style="width: 50px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" align="center" valign="top" class="__scope__e0vll" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <table width="100%" class="ce-dark-mode" border="0" cellpadding="0" cellspacing="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <tr>
+                                  <td align="left" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                                    <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <a href="https://clicks.textnow.com/f/a/b2CVsdpbAASaBPSQhwTd9g~~/AAQRxRA~/hyfp5kJ3Qv1uFxgvB4zp-z_7iJWcmzC4N48YyHH_JdwbXpF55kNbD8Ink2kfa59v561jQRs6W95rtDsk3rVYClrxQuUx3o0gQnvV7lro8YzOGURHYjWBzlA_3_rC46ex7oieIrNJjAkq3Z83ar_rxQ~~" title="TextNow - Instagram" target="_new" style="text-decoration: none !important; outline: none;">
+                                        <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6663241cabb11-1717773340.7033.png" width="32" height="32" alt="Instagram" style="width: 32px !important; height: 32px !important;">
+                                      </a>
+                                    </div>
+                                    <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <!--[if !mso]><! -->
+                                      <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                        <a href="https://clicks.textnow.com/f/a/sEIxZByg9sst1CuqOvfffQ~~/AAQRxRA~/hyfp5kJ3Qv1uFxgvB4zp-z_7iJWcmzC4N48YyHH_JdwbXpF55kNbD8Ink2kfa59v3-ybCB8XaTDhbCsrQ_5KnPA0vkLBlOT08h9HLMjEA9LyvBFcdMJnl80_hIjyGT0U8TKS-yLZlUJVegH86CoEGA~~" title="TextNow - Instagram" target="_new" style="text-decoration: none !important; outline: none;">
+                                          <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/66632426377ee-1717773350.2273.png" width="32" height="32" alt="Instagram" style="width: 32px !important; height: 32px !important;">
+                                        </a>
+                                      </div>
+                                      <!--<![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td width="50" valign="top" class="mob-mw-50" style="width: 50px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" align="center" valign="top" class="__scope__9rq9" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <table width="100%" class="ce-dark-mode" border="0" cellpadding="0" cellspacing="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <tr>
+                                  <td align="left" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                                    <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <a href="https://clicks.textnow.com/f/a/wHJg0nRL3UkQOGLfu3xvdQ~~/AAQRxRA~/p5o5B7epxDxzUQgI3qawJAdnvrYKH9CavpR5Ht-7emd8bF_LE6jelUgE-QXSMGOodRJPEIhHKT__LzbGbK4Nc_XfOkj-kkR6JfsAzoF4XFBtXsNyVrBW9Z4tfv13pGFlbJJPBNyFPxBbao2SqXcqLA~~" title="TextNow - X" target="_new" style="text-decoration: none !important; outline: none;">
+                                        <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/666323d58fc93-1717773269.5889.png" width="32" height="32" alt="X" style="width: 32px !important; height: 32px !important;">
+                                      </a>
+                                    </div>
+                                    <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <!--[if !mso]><! -->
+                                      <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                        <a href="https://clicks.textnow.com/f/a/ZU_eZO_pUkMc58DNYGLGNg~~/AAQRxRA~/p5o5B7epxDxzUQgI3qawJAdnvrYKH9CavpR5Ht-7emcR-zC5yEDMIsWOgiMK9tAc2DYbdN6Pj4684Educfk2wGgsVYHz29gZ6UtZj6_ALIFKc3zhI5TGqEl_rNqR2dT82Bz1GeTGtRti0ftUfk5kXg~~" title="TextNow - X" target="_new" style="text-decoration: none !important; outline: none;">
+                                          <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/666323dfb0c91-1717773279.7241.png" width="32" height="32" alt="X" style="width: 32px !important; height: 32px !important;">
+                                        </a>
+                                      </div>
+                                      <!--<![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td width="50" valign="top" class="mob-mw-50" style="width: 50px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" align="center" valign="top" class="__scope__l0mg7" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <table width="100%" class="ce-dark-mode" border="0" cellpadding="0" cellspacing="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <tr>
+                                  <td align="left" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                                    <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <a href="https://clicks.textnow.com/f/a/b0-0kY0HXWM2FUUYIq91qQ~~/AAQRxRA~/WrXzAU2o9UrAnngVvgI9dMdUnlZapZbAZip1SH9cYZaWHrrqnaZe3wctLPaMRv89Fedeq8ayTIMyyjNvC5tITg7BcULQVkiqY9J3_kO8g6hqK0AZnMgU4y6VbvEej4tLnXeo1FBmbfiwRW_40aw2sQ~~" title="TextNow - YouTube" target="_new" style="text-decoration: none !important; outline: none;">
+                                        <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6663238233c88-1717773186.2121.png" width="32" height="32" alt="YouTube" style="width: 32px !important; height: 32px !important;">
+                                      </a>
+                                    </div>
+                                    <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <!--[if !mso]><! -->
+                                      <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                        <a href="https://clicks.textnow.com/f/a/SFRuT5D7K8HxlwDe5KCtag~~/AAQRxRA~/WrXzAU2o9UrAnngVvgI9dMdUnlZapZbAZip1SH9cYZYb2LhD4Kb7-7N3tOquwsT56Mi6dB-9HL00rgAuimtHS6sinrowKpKzKkULpReEMY5iJcSdsxxeGx94Frq9Wy_zcvRC1XhhveL8NR1cNsRUmA~~" title="TextNow - YouTube" target="_new" style="text-decoration: none !important; outline: none;">
+                                          <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6663238d892c1-1717773197.5619.png" width="32" height="32" alt="YouTube" style="width: 32px !important; height: 32px !important;">
+                                        </a>
+                                      </div>
+                                      <!--<![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td width="122" valign="top" style="width: 122px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" align="center" valign="top" class="__scope__dtll" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <table width="100%" align="left" class="ce-dark-mode" border="0" cellpadding="0" cellspacing="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                <tr>
+                                  <td align="left" cellpadding="0" cellspacing="0" border="0" style="font-size: 0px; line-height: 0px; border-collapse: collapse; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin: 0px; padding: 0px;">
+                                    <div class="light-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <a href="https://clicks.textnow.com/f/a/NU4p2DMrqrmQooSPMI1ZzA~~/AAQRxRA~/F8q78bhvsM2TcIwmHHiuMOMG-Wxa2vSMlZtr2h3vJkuQl5ji3b9Hb62LVKvpF4DXbNGbhjvnzhgtS2IQmgIuMNuEQCnS72aq6tDWt9SEJv1Hvxz5GL0w9OHxihbnhyB_NtpgjReP__lg_Me4jlUuCA~~" title="TextNow - TikTok" target="_new" style="text-decoration: none !important; outline: none;">
+                                        <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/667dcb4197821-1719520065.6206.png" width="32" height="32" alt="TikTok" style="width: 32px !important; height: 32px !important;">
+                                      </a>
+                                    </div>
+                                    <div class="dark-img" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                      <!--[if !mso]><! -->
+                                      <div class="dark-img" style="display: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                                        <a href="https://clicks.textnow.com/f/a/GxlCcrYDxIaZI9HuLPS9Ng~~/AAQRxRA~/F8q78bhvsM2TcIwmHHiuMOMG-Wxa2vSMlZtr2h3vJksXTnLkq_lnortKF_Ny5Pgd2HLCgwPyBooBTVvjpaKbMkrBse3hTmKkuYMi2-zdF2b9oKhVGPbXmIjEbwgt07JBxVcKclK7awKoOay0mTaEFg~~" title="TextNow - TikTok" target="_new" style="text-decoration: none !important; outline: none;">
+                                          <img src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/667dcb5740ab3-1719520087.2649.png" width="32" height="32" alt="TikTok" style="width: 32px !important; height: 32px !important;">
+                                        </a>
+                                      </div>
+                                      <!--<![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td width="230" valign="top" style="width: 230px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr class="st-hide-mobile">
+                            <td width="100%" valign="top" align="center" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <p height="5" width="100%" style="mso-line-height-rule: exactly; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-size-adjust: 100%; width: 100%; height: 5px; max-height: 5px; font-size: 5px; line-height: 5px; margin: 0px; padding: 0;">
+                                &nbsp;
+                              </p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" align="left" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+<!--[if gte mso 9]>
+        <table role="presentation" width="414.00pt" cellpadding="0" cellspacing="0" border="0" style="width:414.00pt; border-collapse: collapse; table-width: fixed;" align="center" >
+          <tr>
+            <td width="264.00pt" style="width:264.00pt" valign="top">
+            <![endif]-->
+                  <table role="presentation" align="left" cellpadding="0" cellspacing="0" border="0" width="352" class="st-mso-full-width st-mobile-full-width" style="width: 352px; float: left; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td align="center" height="98.9773" valign="bottom" width="352" class="st-equal-height" style="height: 98.9773px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" valign="top" align="left" class="aligned-bullets st-dynamic-718-58" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 12px; font-weight: 400; letter-spacing: normal; line-height: 19px; padding-bottom: 20px; padding-top: 20px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <p style="margin: 0px; padding: 0;"><span style="font-size: 12px; line-height: 19px; color: #898b8c; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">420 Wes Graham Way, Waterloo, Ontario, Canada, N2L 0J6<br>© TextNow 2025&nbsp;|<a style="color: #898b8c; text-decoration: none !important; outline: none;" href="https://clicks.textnow.com/f/a/CLtQj9oXhdvWtprZHNOpNA~~/AAQRxRA~/XqcITRlBNF2FEdbG8wGx27LGlijBnZjShuCq51WC5eQSzlgTYSqDrvaoHJefo9F3tjpUXJHrGiiE0Pf3gCXwU5IoZhu0pnBDJzWlcmH0Y8GH-xesqpyDWEYYQXVtSsuTYNudlpoQCtHB2AXfMGMduQ~~">&nbsp;</a><a style="color: #898b8c; text-decoration: none !important; outline: none;" href="https://clicks.textnow.com/f/a/xn2jFRK1UeIh_lcBWUeQ_A~~/AAQRxRA~/XqcITRlBNF2FEdbG8wGx27LGlijBnZjShuCq51WC5eQr5SuPLyfOPgfnlCgzd7b-WITDrw1EiGDzjMZlhhNBspIq3OWZJT6Glk-5ZV8Y2GFPfOFf0ckrWmIv6mSUwqAowr47MG6VE61VMQ7SHXiiFw~~">www.textnow.com</a></span></p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="100%" valign="top" align="left" class="text-dark aligned-bullets st-dynamic-718-61" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 13px; font-weight: 400; letter-spacing: normal; line-height: 21px; width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <p style="margin: 0px; padding: 0;"><span style="font-size: 13px; line-height: 21px; color: #2e1759; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a style="color: #2e1759; text-decoration: none !important; outline: none;" href="https://clicks.textnow.com/f/a/BIczDwSu6NJlA3sn-_Ivhw~~/AAQRxRA~/7k29818bNnVG5LqNd28Gm0LVypwhOfl8n8PQbwAGYUL5KlFOnaSEc5vnksaMgcKp1FXpEaok9YJQVgqxVxEJbWdLa59fACQdgUtzA1nY8aJZsZTpZ2ovoAetIOCq2tsVt92-iykMm92IqrpUyiGbV7nJf2tM7hCkPNMxYEHOBDY~">Privacy Policy</a> | <a style="color: #2e1759; text-decoration: none !important; outline: none;" href="https://clicks.textnow.com/f/a/8bq2ODS0MWLmYRJaazwCTQ~~/AAQRxRA~/LbkRHbND84HW7Hs44coDunF95O8uwhy1UxTWTRq8hV0krSourRN0EGUIbOS45dslv1Z8knNo2U7FUVL2qQpqhyp-91tZCmyY8UBt4xOPtt6fWFsvgF_iTQD59EmD-wf45AChvBgfVZhAKBDW66Ahhg~~">Terms of Use</a></span></p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table> <!--[if gte mso 9]>
+            </td>
+            <td width="73.50pt" style="width: 73.50pt" align="left" valign="top">
+              <![endif]-->
+                  <table role="presentation" align="left" cellpadding="0" cellspacing="0" border="0" width="98" class="st-mso-full-width st-mobile-full-width" style="width: 98px; float: left; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td align="center" height="98.9773" valign="bottom" width="98" class="st-equal-height" style="height: 98.9773px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr class="st-hide-mobile">
+                            <td width="100%" valign="top" align="left" class="st-dynamic-718-65" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a href="https://clicks.textnow.com/f/a/5ovbcyLiF858bF6GxHaR_Q~~/AAQRxRA~/WcoofcTdAaiSe5x9v1jAQP199OxOMcpbyz9aOO-bVLmX3x9iIvBNQyzK5nVuSbnGIelrDDTs7ZlNds974BT5a488pPKpZt5QatPGk4T6a2UlmigjKD_jIZA-yhvYxNjqvrH2JikGx3965F5rv1nvmp9Cs0B4Jr1V8FAuPfBkWNCcheaTD6P0ruSzZbn3N-iS" target="_blank" style="display: block; text-decoration: none !important; outline: none;"><img border="0" valign="top" width="92" src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6602b635e9e3e-1711453749.958.png" height="32" alt="Download on the Apple Store" title="" class="st-mobile-width-constraint" style="display: block; width: 92px; max-width: 100%; border-width: 0px;"> </a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table> <!--[if gte mso 9]>
+            </td>
+            <td width="76.50pt" style="width: 76.50pt" align="left" valign="top">
+              <![endif]-->
+                  <table role="presentation" align="left" cellpadding="0" cellspacing="0" border="0" width="102" class="st-mso-full-width st-mobile-full-width" style="width: 102px; float: left; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td align="center" height="98.9773" valign="bottom" width="102" class="st-equal-height" style="height: 98.9773px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr class="st-hide-mobile">
+                            <td width="100%" valign="top" align="left" class="st-dynamic-718-68" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a href="https://clicks.textnow.com/f/a/YNWo6k2d7L3SOTOUw_A73w~~/AAQRxRA~/WcoofcTdAaiSe5x9v1jAQP199OxOMcpbyz9aOO-bVLnw3sedjC_gV07j_JhswbfhqgpuKqfAtjoLb31g2wGhulBbvXDec6w1xdtnnP48DiwV1I1A5cPVZ7ZWekA_4vEOBRVvvcPLwiV5JKb4PNObUQ4G09Dofx-ucH9b5WdU8zMdtOpwbGknFyCSdggmvSFR" target="_blank" style="display: block; text-decoration: none !important; outline: none;"><img border="0" valign="top" width="108" src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6602b64028c54-1711453760.167.png" height="32" alt="Get it on Google Play" title="" class="st-mobile-width-constraint" style="display: block; width: 108px; max-width: 100%; border-width: 0px;"> </a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table> <!--[if gte mso 9]>
+            </td>
+          </tr>
+        </table>
+      <![endif]-->
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" valign="top" align="left" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left" width="100%" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                    <tr>
+                      <td width="129" valign="bottom" style="width: 129px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+<!--[if !mso]><!-->
+                          <tr class="st-hide-desktop" style="display: none; font-size: 0; height: 0; min-height: 0; max-height: 0; line-height: 0; mso-hide: all;">
+                            <td width="100%" valign="top" align="left" class="mob-mw-92 st-dynamic-718-65" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a href="https://clicks.textnow.com/f/a/0aCBTyujUSXTun_A0Fy-lA~~/AAQRxRA~/WcoofcTdAaiSe5x9v1jAQP199OxOMcpbyz9aOO-bVLmX3x9iIvBNQyzK5nVuSbnGIelrDDTs7ZlNds974BT5a2msQQfbLlAEn3CYN_rSvCID-JArsZw7zzwvwrhZyHwj0mdXMOnBZcnAw4YBlQkhRH05pcpZaeaWKevegs0a4ow3hQUqZ5QDyKFd-N6CKp8u" target="_blank" style="display: block; text-decoration: none !important; outline: none;"><img border="0" valign="top" width="92" src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6602b635e9e3e-1711453749.958.png" height="32" alt="Download on the Apple Store" class="st-mobile-width-constraint" style="display: block; width: 92px; max-width: 100%; border-width: 0px;"> </a></td>
+                          </tr> <!--<![endif]-->
+                        </table>
+                      </td>
+                      <td width="147" valign="bottom" style="width: 147px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+<!--[if !mso]><!-->
+                          <tr class="st-hide-desktop" style="display: none; font-size: 0; height: 0; min-height: 0; max-height: 0; line-height: 0; mso-hide: all;">
+                            <td width="100%" valign="top" align="left" class="mob-mw-108 st-dynamic-718-68" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"><a href="https://clicks.textnow.com/f/a/N_m6IxZzGvlN9x4tXW2wIg~~/AAQRxRA~/WcoofcTdAaiSe5x9v1jAQP199OxOMcpbyz9aOO-bVLnw3sedjC_gV07j_JhswbfhqgpuKqfAtjoLb31g2wGhuh2tJtznMpjLDf2W53Letdjmm4BPCwYYQkkI3gzRvxXRK2aJ9uc_SmXfYW3g821Obd8TrpBcVXPUxmNPKqMb5aqF9iX2yZOiyAwdzfqWYNC6" target="_blank" style="display: block; text-decoration: none !important; outline: none;"><img border="0" valign="top" width="108" src="https://www.emailimagecdnzd8i.com/vxis0aypnm/en_us/images/6602b64028c54-1711453760.167.png" height="32" alt="Get it on Google Play" class="st-mobile-width-constraint" style="display: block; width: 108px; max-width: 100%; border-width: 0px;"> </a></td>
+                          </tr> <!--<![endif]-->
+                        </table>
+                      </td>
+                      <td width="276" valign="top" style="width: 276px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                          <tr>
+                            <td width="100%" valign="top" align="left" style="width: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+                              <p height="5" width="100%" style="mso-line-height-rule: exactly; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-size-adjust: 100%; width: 100%; height: 5px; max-height: 5px; font-size: 5px; line-height: 5px; margin: 0px; padding: 0;">
+                                &nbsp;
+                              </p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> <!-- FOOTER TRANSACTIONAL ends here -->
+    </td>
+  </tr>
+<!--[if false]><!-->
+  <tr>
+    <td class="st-gmail-fix" style="font-size: 0; line-height: 0; height: 0; min-width: 600px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; display: none !important;" bgcolor="#FFFFFF">
+      &nbsp;
+    </td>
+  </tr>
+<!--<![endif]-->
+</table>																			</div>
+			
+<img border="0" width="1" height="1" alt="" src="https://clicks.textnow.com/q/hsTvG-K4L28rnVLDYDoMjA~~/AAQRxRA~/Ab2fgQWl34CgcwAWQoAEZiLFmTxyW2Pl8xbsgKM02qdI4DObPoB1zkMlQoJn9mjp1YFc1wfw7h4I1gOOl3SvkQ~~">
+</body>
+</html>
+==================================================
+
+Email 2:
+From: info@info.textfree.us
+Subject: Your TextFree verification code
+Date: 2025-04-09 13:58
+Body:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" style="width:100%;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;background-color:#FFFFFF;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+  <meta content="width=device-width, initial-scale=1" name="viewport"> 
+  <meta name="x-apple-disable-message-reformatting"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta content="telephone=no" name="format-detection"> 
+  <title>TF_SystemEmail_Header</title> 
+  <!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--> 
+  <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--> 
+  <!--[if gte mso 9]>
+<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG></o:AllowPNG>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+</xml>
+<![endif]--> 
+  <style type="text/css">
+#outlook a {
+	padding:0;
+}
+.ExternalClass {
+	width:100%;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+	line-height:100%;
+}
+.es-button {
+	mso-style-priority:100!important;
+	text-decoration:none!important;
+}
+a[x-apple-data-detectors] {
+	color:inherit!important;
+	text-decoration:none!important;
+	font-size:inherit!important;
+	font-family:inherit!important;
+	font-weight:inherit!important;
+	line-height:inherit!important;
+}
+.es-desk-hidden {
+	display:none;
+	float:left;
+	overflow:hidden;
+	width:0;
+	max-height:0;
+	line-height:0;
+	mso-hide:all;
+}
+[data-ogsb] .es-button {
+	border-width:0!important;
+	padding:10px 20px 10px 20px!important;
+}
+[data-ogsb] .es-button.es-button-1623966181014 {
+	padding:15px 45px!important;
+}
+[data-ogsb] .es-button.es-button-1624402921235 {
+	padding:15px 45px!important;
+}
+[data-ogsb] .es-button.es-button-1624402932557 {
+	padding:15px 45px!important;
+}
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important } h1 { font-size:32px!important; text-align:left } h2 { font-size:24px!important; text-align:left } h3 { font-size:20px!important; text-align:left } .st-br { padding-left:0px!important; padding-right:0px!important } h1 a { text-align:left } .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1 a { font-size:32px!important } h2 a { text-align:left } .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2 a { font-size:24px!important } h3 a { text-align:left } .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:20px!important } .es-menu td a { font-size:12px!important } .es-header-body p, .es-header-body ul li, .es-header-body ol li, .es-header-body a { font-size:16px!important } .es-content-body p, .es-content-body ul li, .es-content-body ol li, .es-content-body a { font-size:16px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li, .es-footer-body a { font-size:12px!important } .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a { font-size:12px!important } *[class="gmail-fix"] { display:none!important } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-align:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-txt-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border { display:block!important } a.es-button, button.es-button { font-size:16px!important; display:block!important; border-right-width:0px!important; border-left-width:0px!important; border-top-width:15px!important; border-bottom-width:15px!important } .es-btn-fw { border-width:10px 0px!important; text-align:center!important } .es-adaptive table, .es-btn-fw, .es-btn-fw-brdr, .es-left, .es-right { width:100%!important } .es-content table, .es-header table, .es-footer table, .es-content, .es-footer, .es-header { width:100%!important; max-width:600px!important } .es-adapt-td { display:block!important; width:100%!important } .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padding:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { padding-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { padding-bottom:0!important } .es-m-p20b { padding-bottom:10px!important } .es-mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visible!important; float:none!important; max-height:inherit!important; line-height:inherit!important } tr.es-desk-hidden { display:table-row!important } table.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { display:table-cell!important } .es-menu td { width:1%!important } table.es-table-not-adapt, .esd-block-html table { width:auto!important } table.es-social { display:inline-block!important } table.es-social td { display:inline-block!important } .es-m-p5 { padding:5px!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-bottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l { padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p10t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!important } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:10px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-top:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r { padding-right:15px!important } .es-m-p15l { padding-left:15px!important } .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!important } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left:20px!important } .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!important } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-right:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { padding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!important } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!important } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bottom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!important } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-left:40px!important } }
+</style> 
+ </head> 
+ <body style="width:100%;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;background-color:#FFFFFF;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0"> 
+  <div class="es-wrapper-color" style="background-color:#FFFFFF"> 
+   <!--[if gte mso 9]>
+			<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+				<v:fill type="tile" color="#ffffff"></v:fill>
+			</v:background>
+		<![endif]--> 
+   <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top;background-color:#FFFFFF"> 
+     <tr style="border-collapse:collapse"> 
+      <td class="st-br" valign="top" style="padding:0;Margin:0"> 
+       <table cellpadding="0" cellspacing="0" class="es-header" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top"> 
+         <tr style="border-collapse:collapse"> 
+          <td align="center" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff"> 
+           <table bgcolor="#ffffff" class="es-header-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px"> 
+             <tr class="es-mobile-hidden" style="border-collapse:collapse"> 
+              <td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;background-color:#ffffff"> 
+               <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px"> 
+                 <tr style="border-collapse:collapse"> 
+                  <td align="center" valign="top" style="padding:0;Margin:0;width:560px"> 
+                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px"> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="center" style="padding:20px;Margin:0;font-size:0" bgcolor="#ffffff"> 
+                       <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px"> 
+                         <tr style="border-collapse:collapse"> 
+                          <td style="padding:0;Margin:0;border-bottom:0px solid #cccccc;background:none;height:1px;width:100%;margin:0px"></td> 
+                         </tr> 
+                       </table></td> 
+                     </tr> 
+                   </table></td> 
+                 </tr> 
+               </table></td> 
+             </tr> 
+             <tr style="border-collapse:collapse"> 
+              <td class="es-m-p20r es-m-p20l" align="left" style="Margin:0;padding-top:20px;padding-bottom:20px;padding-left:30px;padding-right:30px"> 
+               <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px"> 
+                 <tr style="border-collapse:collapse"> 
+                  <td align="left" style="padding:0;Margin:0;width:540px"> 
+                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px"> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://braze-images.com/appboy/communication/assets/image_assets/images/627041ea0ac03551cfe04644/original.png?1651524074" alt="TextFree" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;font-size:12px" width="75" title="TextFree" height="75"></td> 
+                     </tr> 
+                   </table></td> 
+                 </tr> 
+               </table></td> 
+             </tr> 
+           </table></td> 
+         </tr> 
+       </table></td> 
+     </tr> 
+   </table> 
+  </div>  
+ </body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" style="background-color:#FFFFFF;padding:0;Margin:0">
+ <head>
+  
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="telephone=no" name="format-detection">
+  <title>TF OTP_VK</title><!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--><!--[if gte mso 9]>
+<noscript>
+         <xml>
+           <o:OfficeDocumentSettings>
+           <o:AllowPNG></o:AllowPNG>
+           <o:PixelsPerInch>96</o:PixelsPerInch>
+           </o:OfficeDocumentSettings>
+         </xml>
+      </noscript>
+<![endif]--><!--[if mso]><xml>
+    <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
+      <w:DontUseAdvancedTypographyReadingMail></w:DontUseAdvancedTypographyReadingMail>
+    </w:WordDocument>
+    </xml><![endif]-->
+  <style type="text/css">
+#outlook a {
+    padding:0;
+}
+.ExternalClass {
+    width:100%;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+    line-height:100%;
+}
+.es-button {
+    mso-style-priority:100!important;
+    text-decoration:none!important;
+}
+a[x-apple-data-detectors] {
+    color:inherit!important;
+    text-decoration:none!important;
+    font-size:inherit!important;
+    font-family:inherit!important;
+    font-weight:inherit!important;
+    line-height:inherit!important;
+}
+.es-desk-hidden {
+    display:none;
+    float:left;
+    overflow:hidden;
+    width:0;
+    max-height:0;
+    line-height:0;
+    mso-hide:all;
+}
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important } h1 { font-size:32px!important; text-align:left } h2 { font-size:24px!important; text-align:left } h3 { font-size:20px!important; text-align:left } h4 { font-size:14px!important; text-align:left; line-height:150%!important } .st-br { padding-left:0px!important; padding-right:0px!important } h1 a { text-align:left } .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1 a { font-size:32px!important } h2 a { text-align:left } .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2 a { font-size:24px!important } h3 a { text-align:left } h4 a { font-size:14px!important; text-align:left } u { font-size:14px!important } b { font-size:20px!important } .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:20px!important } .es-menu td a { font-size:12px!important } .es-header-body p, .es-header-body ul li, .es-header-body ol li, .es-header-body a { font-size:16px!important } .es-content-body p, .es-content-body ul li, .es-content-body ol li, .es-content-body a { font-size:16px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li, .es-footer-body a { font-size:14px!important } .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a { font-size:12px!important } *[class="gmail-fix"] { display:none!important } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-align:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-txt-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border { display:block!important } a.es-button, button.es-button { font-size:16px!important; display:block!important; border-right-width:0px!important; border-left-width:0px!important; border-top-width:15px!important; border-bottom-width:15px!important } .es-btn-fw { border-width:10px 0px!important; text-align:center!important } .es-adaptive table, .es-btn-fw, .es-btn-fw-brdr, .es-left, .es-right { width:100%!important } .es-content table, .es-header table, .es-footer table, .es-content, .es-footer, .es-header { width:100%!important; max-width:600px!important } .es-adapt-td { display:block!important; width:100%!important } .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padding:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { padding-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { padding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visible!important; float:none!important; max-height:inherit!important; line-height:inherit!important } tr.es-desk-hidden { display:table-row!important } table.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { display:table-cell!important } .es-menu td { width:1%!important } table.es-table-not-adapt, .esd-block-html table { width:auto!important } table.es-social { display:inline-block!important } table.es-social td { display:inline-block!important } .es-m-p5 { padding:5px!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-bottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l { padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p10t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!important } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:10px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-top:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r { padding-right:15px!important } .es-m-p15l { padding-left:15px!important } .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!important } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left:20px!important } .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!important } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-right:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { padding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!important } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!important } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bottom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!important } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-left:40px!important } .es-desk-hidden { display:table-row!important; width:auto!important; overflow:visible!important; max-height:inherit!important } }
+@media screen and (max-width:384px) {.mail-message-content { width:414px!important } }
+</style>
+ </head>
+ <body style="background-color:#FFFFFF;width:100%;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
+  <div dir="ltr" class="es-wrapper-color" lang="en" style="background-color:#FFFFFF"><!--[if gte mso 9]>
+			<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+				<v:fill type="tile" color="#ffffff"></v:fill>
+			</v:background>
+		<![endif]-->
+   <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top;background-color:#FFFFFF">
+     <tr style="border-collapse:collapse">
+      <td class="st-br" valign="top" style="padding:0;Margin:0">
+       <table cellpadding="0" cellspacing="0" class="es-content" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+         <tr style="border-collapse:collapse">
+          <td align="center" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+           <table class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#ffffff;width:600px" bgcolor="#ffffff" role="none">
+             <tr style="border-collapse:collapse">
+              <td class="es-m-p20r es-m-p20l" align="left" style="padding:0;Margin:0;padding-top:30px;padding-left:30px;padding-right:30px">
+               <table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                 <tr style="border-collapse:collapse">
+                  <td align="center" valign="top" style="padding:0;Margin:0;width:540px">
+                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                     <tr style="border-collapse:collapse">
+                      <td align="left" style="padding:0;Margin:0"><h3 style="Margin:0;line-height:28.8px;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:24px;font-style:normal;font-weight:bold;color:#000000"><b>Your verification code for registration is:</b></h3></td>
+                     </tr>
+                     <tr style="border-collapse:collapse">
+                      <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:30px;color:#000000;font-size:20px"><b>131584</b></p></td>
+                     </tr>
+                     <tr style="border-collapse:collapse">
+                      <td align="left" style="padding:0;Margin:0;padding-top:20px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:24px;color:#000000;font-size:16px">This code expires after 15 minutes. Open the app to request a new code.</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:32px;color:#000000;font-size:16px"><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#5f60d2;font-size:16px;line-height:32px" href=""></a></p></td>
+                     </tr>
+                     <tr style="border-collapse:collapse">
+                      <td align="left" style="padding:0;Margin:0;padding-top:20px"><h4 style="Margin:0;line-height:21px;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000"><i>If you did not create a TextFree account and believe someone entered your information by mistake, please email </i><a href="mailto:support@pinger.com" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#5f60d2;font-size:14px"><i><u>support@pinger.com</u></i></a><i>.</i></h4></td>
+                     </tr>
+                   </table></td>
+                 </tr>
+               </table></td>
+             </tr>
+           </table></td>
+         </tr>
+       </table></td>
+     </tr>
+   </table>
+  </div>
+ </body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+ <head>
+  
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="telephone=no" name="format-detection">
+  <title>TF_System Email Footer_Update_2024</title><!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--><!--[if gte mso 9]>
+<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG></o:AllowPNG>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <style type="text/css">
+#outlook a {
+	padding:0;
+}
+.es-button {
+	mso-style-priority:100!important;
+	text-decoration:none!important;
+}
+a[x-apple-data-detectors] {
+	color:inherit!important;
+	text-decoration:none!important;
+	font-size:inherit!important;
+	font-family:inherit!important;
+	font-weight:inherit!important;
+	line-height:inherit!important;
+}
+.es-desk-hidden {
+	display:none;
+	float:left;
+	overflow:hidden;
+	width:0;
+	max-height:0;
+	line-height:0;
+	mso-hide:all;
+}
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important } h1 { font-size:30px!important; text-align:left } h2 { font-size:24px!important; text-align:left } h3 { font-size:20px!important; text-align:left } .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1 a { font-size:30px!important; text-align:left } .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2 a { font-size:24px!important; text-align:left } .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:20px!important; text-align:left } .es-menu td a { font-size:14px!important } .es-header-body p, .es-header-body ul li, .es-header-body ol li, .es-header-body a { font-size:14px!important } .es-content-body p, .es-content-body ul li, .es-content-body ol li, .es-content-body a { font-size:14px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li, .es-footer-body a { font-size:14px!important } .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a { font-size:12px!important } *[class="gmail-fix"] { display:none!important } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-align:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-txt-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border { display:inline-block!important } a.es-button, button.es-button { font-size:18px!important; display:inline-block!important } .es-adaptive table, .es-left, .es-right { width:100%!important } .es-content table, .es-header table, .es-footer table, .es-content, .es-footer, .es-header { width:100%!important; max-width:600px!important } .es-adapt-td { display:block!important; width:100%!important } .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padding:0px!important } .es-m-p0r { padding-right:0px!important } .es-m-p0l { padding-left:0px!important } .es-m-p0t { padding-top:0px!important } .es-m-p0b { padding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visible!important; float:none!important; max-height:inherit!important; line-height:inherit!important } tr.es-desk-hidden { display:table-row!important } table.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { display:table-cell!important } .es-menu td { width:1%!important } table.es-table-not-adapt, .esd-block-html table { width:auto!important } table.es-social { display:inline-block!important } table.es-social td { display:inline-block!important } .es-desk-hidden { display:table-row!important; width:auto!important; overflow:visible!important; max-height:inherit!important } }
+@media screen and (max-width:384px) {.mail-message-content { width:414px!important } }
+</style>
+ </head>
+ <body style="width:100%;font-family:arial, 'helvetica neue', helvetica, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
+  <div dir="ltr" class="es-wrapper-color" lang="en" style="background-color:#F6F6F6"><!--[if gte mso 9]>
+			<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+				<v:fill type="tile" color="#f6f6f6"></v:fill>
+			</v:background>
+		<![endif]-->
+   <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top;background-color:#F6F6F6">
+     <tr>
+      <td valign="top" style="padding:0;Margin:0">
+       <table cellpadding="0" cellspacing="0" class="es-footer" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">
+         <tr>
+          <td align="center" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+           <table class="es-footer-body" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#ffffff;width:600px" bgcolor="#ffffff" role="none">
+             <tr>
+              <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px">
+               <table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                 <tr>
+                  <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                     <tr>
+                      <td align="center" style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px;font-size:0" bgcolor="#ffffff">
+                       <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                         <tr>
+                          <td style="padding:0;Margin:0;border-bottom:1px solid #cccccc;background:none;height:1px;width:100%;margin:0px"></td>
+                         </tr>
+                       </table></td>
+                     </tr>
+                     <tr>
+                      <td align="center" class="es-m-txt-c" bgcolor="#ffffff" style="padding:0;Margin:0;padding-bottom:10px;padding-top:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;color:#aaaaaa;font-size:12px">© Pinger, Inc. All Rights Reserved.</p></td>
+                     </tr>
+                     <tr>
+                      <td class="es-m-txt-c" align="center" style="Margin:0;padding-top:20px;padding-left:30px;padding-right:30px;padding-bottom:40px;font-size:0px;background-color:#ffffff" bgcolor="#ffffff">
+                       <table class="es-table-not-adapt es-social" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                         <tr>
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:30px"><a target="_blank" href="https://links.info.textfree.us/ls/click?upn=u001.Znt-2BPi01PRXOvRLDmymHuhaa4Yo3DUMn27UNTL8tT89pTSc-2BNYPPg5rYKnCTTyAtBhCStajhoaFJy-2B9-2B3PgEBA-3D-3DC92C_U3vDg6jGnZODWeaQUsuSaCF-2BpKGD8lVNM5G3DetZ9Ujqf9K5BsVpA-2B1ZhZ5mXL6kjkjozNlvnvwa-2BAamB4-2BZ9jDZItAQRFXplL2aMyuzhAHf1tbQe-2BwJwASOBT18GJM287Dfu9hjmlNws8GIlbYN8tdPLvRG5GUeolCQfTG8kMkFZpxn7Mq7V2T2-2BGss-2BtsgwOG38m-2F3JldCJy0i7gOQE7qUqAVU6n9Tib-2B2G19BCfeyZgmJox4Uy1B8zc4F9QyuKVq2jrz5IuIQDoAnF2U-2BmQ22Wn-2BRgSuTq3oATd-2FBpFz8YajbHCD0xBwIcAbqNV2JxxxZBDcbH7oC8BHj-2B97BtP-2Bks9gfFIBLzFitJJucRnb-2FcGslawHDZL7NhxpS4Xq6uJJd1NwVRnfyY3jQxPf1J9KKhkjDZQCxIzrT0I3-2FC7CcZfLDuWO0P2ODIHHDIqQGveIkhXMOKvJ7Sdvr-2BCeB6YCyt4PuPzoxqPOESjdESpfee5LLYKlmgyTxJtwBBkqObtoM6LDLmjavcNmkOeOVyqxdRCsmXu0NIfYjJ2jX51oF69BZ-2B1A6iN41uWCb3ZjxIVm3ezTbQO-2Bg3XkekYHiTz9oVwBomEF6UCvI0n3O8mhBaFB5SoHlFVHkOlvwEhcK6qFX1uWm8-2B4RP7snx2X1JA-3D-3D" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#2CB543;font-size:14px"><img title="Facebook" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6647b8ca330d1c00581b400d/original.png?1715976394" alt="Fb" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:30px"><a target="_blank" href="https://links.info.textfree.us/ls/click?upn=u001.Znt-2BPi01PRXOvRLDmymHupvSbJfPHtDga30fPm4s5MPI7Y0M8sTfDyZ4wAovgnnxK-2FnF9ADtTIEcit6hS8PGNQ-3D-3Do034_U3vDg6jGnZODWeaQUsuSaCF-2BpKGD8lVNM5G3DetZ9Ujqf9K5BsVpA-2B1ZhZ5mXL6kjkjozNlvnvwa-2BAamB4-2BZ9jDZItAQRFXplL2aMyuzhAHf1tbQe-2BwJwASOBT18GJM287Dfu9hjmlNws8GIlbYN8tdPLvRG5GUeolCQfTG8kMkFZpxn7Mq7V2T2-2BGss-2BtsgwOG38m-2F3JldCJy0i7gOQE7qUqAVU6n9Tib-2B2G19BCfeyZgmJox4Uy1B8zc4F9QyuKVq2jrz5IuIQDoAnF2U-2BmQ22Wn-2BRgSuTq3oATd-2FBpFz8YajbHCD0xBwIcAbqNV2JxxxZBDcbH7oC8BHj-2B97BtP-2Bks9gfFIBLzFitJJucRnb-2FcGslawHDZL7NhxpS4Xq6uJJd1NwVRnfyY3jQxPf1J9KKhkjDZQCxIzrT0I3-2FC7CcZfLDuWO0P2ODIHHDIqQGveIkhXMOKvJ7Sdvr-2BCeB6YCyt4PuPzoxqPOESjdESpfee5LLYKlmgyTxJtwBBkqOmdx1SJAh-2BLvwHttJCqJUiKOBLzh3gH8gXIi7IvF5CtTZW3u12CgfoYZSIejtkD0lPvcLo6kkUj6Zzf9GL-2BfuT-2FCMMN-2Fknf-2FgvcTrVtP6xKTjbJlvmft50xI-2BRWjSKSxgGdPtAfWEGbbpiSW-2Bn9g6wA-3D-3D" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#2CB543;font-size:14px"><img title="Instagram" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6647b8caf0d424005844bf4d/original.png?1715976394" alt="IG" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:30px"><a target="_blank" href="https://links.info.textfree.us/ls/click?upn=u001.Znt-2BPi01PRXOvRLDmymHulQxRA8MQTKOZM1Q-2FgV-2FoLovnznAypZzFSn5OtWNhNO5GIbfXcGOqCeci758Wi3q-2Fg-3D-3DguRP_U3vDg6jGnZODWeaQUsuSaCF-2BpKGD8lVNM5G3DetZ9Ujqf9K5BsVpA-2B1ZhZ5mXL6kjkjozNlvnvwa-2BAamB4-2BZ9jDZItAQRFXplL2aMyuzhAHf1tbQe-2BwJwASOBT18GJM287Dfu9hjmlNws8GIlbYN8tdPLvRG5GUeolCQfTG8kMkFZpxn7Mq7V2T2-2BGss-2BtsgwOG38m-2F3JldCJy0i7gOQE7qUqAVU6n9Tib-2B2G19BCfeyZgmJox4Uy1B8zc4F9QyuKVq2jrz5IuIQDoAnF2U-2BmQ22Wn-2BRgSuTq3oATd-2FBpFz8YajbHCD0xBwIcAbqNV2JxxxZBDcbH7oC8BHj-2B97BtP-2Bks9gfFIBLzFitJJucRnb-2FcGslawHDZL7NhxpS4Xq6uJJd1NwVRnfyY3jQxPf1J9KKhkjDZQCxIzrT0I3-2FC7CcZfLDuWO0P2ODIHHDIqQGveIkhXMOKvJ7Sdvr-2BCeB6YCyt4PuPzoxqPOESjdESpfee5LLYKlmgyTxJtwBBkqOCGUsRpbKOI3KwSMVEZS2H8g6Cz6mKY9AQUJE-2FNZoEDXFxCtFhVG5AiAnJQvIUmc-2BQef-2FXr0ifZ7zfNd4kmIAOgAb1IiL1Nb-2B61GbXnpHiwdDN1l4KkRRHs8Yp79FSQg9FHnFyH1xBgemYp-2F6jQr7GA-3D-3D" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#2CB543;font-size:14px"><img title="X" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6647b899df36d2005936327c/original.png?1715976344" alt="" width="26" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:30px"><a target="_blank" href="https://links.info.textfree.us/ls/click?upn=u001.Znt-2BPi01PRXOvRLDmymHunv2j-2B6zk1qjdSW1C9Cegs5umpQ9bseS4PTCnwGKcGsX2YMLrr7AlqR7-2BHIxWOV9pbDPg5HBkIuzyRepu6bypek-3D8ozO_U3vDg6jGnZODWeaQUsuSaCF-2BpKGD8lVNM5G3DetZ9Ujqf9K5BsVpA-2B1ZhZ5mXL6kjkjozNlvnvwa-2BAamB4-2BZ9jDZItAQRFXplL2aMyuzhAHf1tbQe-2BwJwASOBT18GJM287Dfu9hjmlNws8GIlbYN8tdPLvRG5GUeolCQfTG8kMkFZpxn7Mq7V2T2-2BGss-2BtsgwOG38m-2F3JldCJy0i7gOQE7qUqAVU6n9Tib-2B2G19BCfeyZgmJox4Uy1B8zc4F9QyuKVq2jrz5IuIQDoAnF2U-2BmQ22Wn-2BRgSuTq3oATd-2FBpFz8YajbHCD0xBwIcAbqNV2JxxxZBDcbH7oC8BHj-2B97BtP-2Bks9gfFIBLzFitJJucRnb-2FcGslawHDZL7NhxpS4Xq6uJJd1NwVRnfyY3jQxPf1J9KKhkjDZQCxIzrT0I3-2FC7CcZfLDuWO0P2ODIHHDIqQGveIkhXMOKvJ7Sdvr-2BCeB6YCyt4PuPzoxqPOESjdESpfee5LLYKlmgyTxJtwBBkqO-2F0LKEgEAquBB2otRUSCkz-2FC1Fn4m98Jo7aGV2ASmqm8afjwyqDpu6jFx7GXHgj7GgS8BzwKDHks15IVpCi4x1OwSzEfGu7f8O5RSeXpH3f9kWTM-2F82tq2Xo9yi3agEyv55iwnnbXEe-2FhfN-2By-2FIpMHA-3D-3D" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#2CB543;font-size:14px"><img title="TikTok" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6647b899ec435e0058a2d7a4/original.png?1715976344" alt="" width="22" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                          <td valign="top" align="center" style="padding:0;Margin:0"><a target="_blank" href="https://links.info.textfree.us/ls/click?upn=u001.Znt-2BPi01PRXOvRLDmymHusUCNq79parybz7baJwVJJG8Ktf5xRrHoz-2FH5bgiBSmvxs5UVZschNHsOSxU-2F-2BtQKg-3D-3DJhx0_U3vDg6jGnZODWeaQUsuSaCF-2BpKGD8lVNM5G3DetZ9Ujqf9K5BsVpA-2B1ZhZ5mXL6kjkjozNlvnvwa-2BAamB4-2BZ9jDZItAQRFXplL2aMyuzhAHf1tbQe-2BwJwASOBT18GJM287Dfu9hjmlNws8GIlbYN8tdPLvRG5GUeolCQfTG8kMkFZpxn7Mq7V2T2-2BGss-2BtsgwOG38m-2F3JldCJy0i7gOQE7qUqAVU6n9Tib-2B2G19BCfeyZgmJox4Uy1B8zc4F9QyuKVq2jrz5IuIQDoAnF2U-2BmQ22Wn-2BRgSuTq3oATd-2FBpFz8YajbHCD0xBwIcAbqNV2JxxxZBDcbH7oC8BHj-2B97BtP-2Bks9gfFIBLzFitJJucRnb-2FcGslawHDZL7NhxpS4Xq6uJJd1NwVRnfyY3jQxPf1J9KKhkjDZQCxIzrT0I3-2FC7CcZfLDuWO0P2ODIHHDIqQGveIkhXMOKvJ7Sdvr-2BCeB6YCyt4PuPzoxqPOESjdESpfee5LLYKlmgyTxJtwBBkqO-2FTVWDY1bssHQm8Iwfo3dz2VhnEuEuazueC71fr7SaJ4ISpWHV7gbUAnJUEjzh2AI-2BbgyGTt5XuNPadLniPa5dnU-2BllP-2F1UaHo22uo3WSnzFNFgq-2FbNWYXTeSsE9D5eQmejFBAGE-2FrDxVFVcmmQi0HQ-3D-3D" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#2CB543;font-size:14px"><img title="YouTube" src="https://braze-images.com/appboy/communication/assets/image_assets/images/6647b899bf7f510059cc8ec5/original.png?1715976345" alt="" width="35" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+                         </tr>
+                       </table></td>
+                     </tr>
+                   </table></td>
+                 </tr>
+               </table></td>
+             </tr>
+           </table></td>
+         </tr>
+       </table></td>
+     </tr>
+   </table>
+  </div>
+ <img src="https://links.info.textfree.us/wf/open?upn=u001.58jKuLnC8PLw0H3mRlHotK7E07wTAd39m9xM918wzPLprI1jfqYnCwRxwYEo4OyegpsAIXlxewL-2FP33-2BC-2BkrJMgGy6Ksv7sufCkaOSnl5tZ1uP7EBUo8Y47orU1fi20u4QwDKm1a2Te22YcIFcL5uC2BL7n4-2B-2FiSF1gOXbpNzhh-2F78-2FYEl2tBLANSsxcK4AEE-2FSGb4zfxQ9myCDrHK5d-2FQ1uGVdpp0QCrd3Rki9hwTa2i9LhKUbgmGOXIl-2BOrDcYsyN-2F-2BdnCk4N95h4yqBinalOfucSyFeKegq9Qc-2BPye1EV-2FFTrZIhCuugPu5mHt5saIkoBDwKi9PNRFYNxdzhWBmLX1z2C2Txfzd-2BHpXG0ji9JWT-2FPruF1tDUdnqFU9sHNAX8mhZWMoDfxBjDV2M7h2dEI6LqoD4p4RxPgUQ5EcLtQ9EFXaF4Rj2uEDKxLOAA74Gn62UQhhMn-2FQaX4TNRXGR8YkLlegvVxOFXCp7p6Oe5lRdFm-2BMwGGug32LVUDzemIBYK8FWGSNauXxU5saM-2BkQzBb8Y0RXmZGKjdiDaDojq4P4JvtXsortlmntrZTNKddb1MHS3xGpzRmsFgutjNvkiB4uGrAFb7XM44bzNo1Rl41tbBqYE6Y1OTnADxkI0H8ASIMFJqryDiPkCBiJ8FqHiukr3sVDiEoKsT4Uw35EU-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
+==================================================
+

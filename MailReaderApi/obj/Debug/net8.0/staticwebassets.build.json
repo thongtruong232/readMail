@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sG/jjRG2qBH6B+mFiS2Xt1jQhnO3zAiyziv3y4+fKKk=",
+  "Source": "MailReaderApi",
+  "BasePath": "_content/MailReaderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
