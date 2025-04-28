@@ -65,9 +65,7 @@ CHANNEL_LAYERS = {
     'default': {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
         'CONFIG': {
-            "hosts": [
-                "redis://default:nXGpsqPo0VHKzEIXqmxCQppVplBV88m6@redis-14546.c334.asia-southeast2-1.gce.redns.redis-cloud.com:14546/0"
-            ],
+            "hosts": [('redis', 6379)],  # Sử dụng tên service Redis trong Docker
         },
     },
 }
@@ -90,4 +88,9 @@ TEMPLATES = [
             ],
         },
     },
-] 
+]
+
+# Cấu hình WebSocket
+CHANNELS_WS_PROTOCOLS = ["websocket"]
+CHANNELS_WS_ALLOWED_HOSTS = ["*"]  # Cho phép kết nối từ mọi host trong development
+CHANNELS_WS_AUTHENTICATION = True 

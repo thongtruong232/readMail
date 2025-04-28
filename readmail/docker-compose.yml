@@ -5,9 +5,24 @@ services:
     build: .
     ports:
       - "8002:8002"
+    depends_on:
+      - redis
     environment:
-      - DJANGO_SETTINGS_MODULE=readmailweb.settings
-      - PYTHONUNBUFFERED=1
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
     volumes:
       - ./:/app
-    restart: always 
+    restart: always
+    networks:
+      - app-network
+
+  redis:
+    image: redis:6.2-alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge 
