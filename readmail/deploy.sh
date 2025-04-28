@@ -23,7 +23,7 @@ git reset --hard origin/$BRANCH
 
 # 4. Cài đặt các gói mới (nếu có thay đổi trong requirements.txt)
 echo "Cài đặt dependencies mới..."
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # 5. Build lại Docker image
 echo "Build lại Docker image..."
@@ -41,28 +41,22 @@ docker compose up -d
 echo "Chờ container sẵn sàng..."
 sleep 5
 
-
-# Cài đặt các gói mới (nếu có thay đổi trong requirements.txt)
-echo "Cài đặt dependencies mới..."
-pip install -r requirements.txt
-
-
 # Chạy migrate & collectstatic bên trong container
 echo "Chạy migrate và thu thập static files..."
 docker compose exec web bash -c "
-  python manage.py migrate &&
-  python manage.py collectstatic --noinput
+  python3 manage.py migrate &&
+  python3 manage.py collectstatic --noinput
 "
 
 echo "Deploy thành công, giao diện đã được cập nhật!"
 
 # 5. Chạy migrate nếu có thay đổi cơ sở dữ liệu
 echo "Chạy database migrations..."
-python manage.py migrate
+python3 manage.py migrate
 
 # 6. Collect static files (nếu thay đổi trong static files)
 echo "Thu thập static files..."
-python manage.py collectstatic --noinput
+python3 manage.py collectstatic --noinput
 
 # 7. Dừng Daphne nếu đang chạy
 echo "Dừng Daphne nếu đang chạy..."

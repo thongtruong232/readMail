@@ -7,6 +7,7 @@ WORKDIR /app
 # Cài đặt các dependencies hệ thống
 RUN apt-get update && apt-get install -y \
     build-essential \
+    python3-dev \
     libpq-dev \
     && rm -rf /var/lib/apt/lists/*
 
@@ -25,4 +26,4 @@ ENV PYTHONUNBUFFERED=1
 ENV DJANGO_SETTINGS_MODULE=readmailweb.settings
 
 # Command để chạy Daphne
-CMD ["daphne", "-p", "8002", "readmailweb.asgi:application"] 
+CMD ["daphne", "-b", "0.0.0.0", "-p", "8002", "readmailweb.asgi:application"] 
