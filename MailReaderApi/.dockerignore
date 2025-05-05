@@ -1,0 +1,31 @@
+# Bỏ thư mục build
+bin/
+obj/
+publish/
+
+# Bỏ thư mục version control
+.git/
+.gitignore
+
+# Bỏ thư mục VS Code
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Bỏ file log, tạm
+*.log
+*.tmp
+*.temp
+
+# Bỏ Dockerfile cũ nếu có
+Dockerfile.*
+
+# Bỏ file docker-compose nếu không cần
+docker-compose.yml
+docker-compose.override.yml
+
+# Bỏ các file không cần thiết khác
+README.md
+LICENSE

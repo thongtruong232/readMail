@@ -1,0 +1,17 @@
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MailReaderApi.exe
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\appsettings.Development.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\appsettings.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MailReaderApi.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MailReaderApi.deps.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MailReaderApi.runtimeconfig.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MailReaderApi.pdb
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\BouncyCastle.Cryptography.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MailKit.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\Microsoft.OpenApi.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\MimeKit.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\System.Security.Cryptography.Pkcs.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\publish\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

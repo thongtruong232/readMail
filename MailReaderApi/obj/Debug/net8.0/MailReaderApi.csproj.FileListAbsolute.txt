@@ -112,3 +112,9 @@ C:\Program Files\Thong\readmail\readmailweb - 1704\MailReaderApi\obj\Debug\net8.
 C:\Program Files\Thong\readmail\readmailweb - 1704\MailReaderApi\obj\Debug\net8.0\MailReaderApi.pdb
 C:\Program Files\Thong\readmail\readmailweb - 1704\MailReaderApi\obj\Debug\net8.0\MailReaderApi.genruntimeconfig.cache
 C:\Program Files\Thong\readmail\readmailweb - 1704\MailReaderApi\obj\Debug\net8.0\ref\MailReaderApi.dll
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\obj\Debug\net8.0\MailReaderApi.sourcelink.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\bin\Debug\net8.0\publish\web.config
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\bin\Debug\net8.0\publish\appsettings.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\bin\Debug\net8.0\publish\MailReaderApi.deps.json
+C:\Program Files\Thong\readmail\readmailweb\MailReaderApi\bin\Debug\net8.0\publish\MailReaderApi.runtimeconfig.json

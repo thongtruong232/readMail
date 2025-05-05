@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MailReaderApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6a92b14d3e98f2508aa7dfa700c1a6c293e7395")]
 [assembly: System.Reflection.AssemblyProductAttribute("MailReaderApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MailReaderApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
