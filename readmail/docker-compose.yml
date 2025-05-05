@@ -9,7 +9,8 @@ services:
       - redis
     environment:
       - REDIS_HOST=redis
-      - REDIS_PORT=6379
+      - REDIS_PORT=6380
+      - REDIS_PASSWORD=thongtruong232
     volumes:
       - .:/app
     restart: always
@@ -18,6 +19,7 @@ services:
 
   redis:
     image: redis:6.2-alpine
+    command: redis-server --requirepass thongtruong232
     ports:
       - "6380:6379"
     volumes:

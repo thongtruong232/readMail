@@ -115,57 +115,98 @@ def parse_multiple_data(input_string):
 def read_mail(email, refresh_token, client_id, email_index, request):
     try:
         url = "http://207.148.69.229:5000/api/mail/read"
+        # url = "http://localhost:5000/api/mail/read"
         payload = {
             "Email": email,
             "RefreshToken": refresh_token,
             "ClientId": client_id
         }
         socket_id = request.POST.get('socket_id')
+        
+        # Log request details
+        print(f"Making API request to {url}")
+        print(f"Payload: {json.dumps(payload, indent=2)}")
+        
         response = requests.post(url, json=payload)
-        data = response.json()
-
+        
+        # Log response details
+        # print(f"Response status: {response.status_code}")
+        # print(f"Response headers: {dict(response.headers)}")
+        # try:
+        #     print(f"Response body: {response.text[:500]}...")  # Print first 500 chars of response
+        # except:
+        #     print("Could not print response body")
+        
+        # Kiểm tra response status
+        if response.status_code != 200:
+            print(f"API returned status code {response.status_code}")
+            return f"API error: {response.status_code}"
+            
+        try:
+            data = response.json()
+        except ValueError as e:
+            print(f"Invalid JSON response: {e}")
+            return f"Invalid response format: {e}"
+            
+        if not isinstance(data, list):
+            print(f"Expected list but got {type(data)}")
+            return f"Invalid data format: expected list"
+            
         results = []  # List để chứa tất cả kết quả
 
         for item in data:
-            if item['from'] == 'noreply@notifications.textnow.com':
-                link = parse_beautifulshop_tn(item['body'])
-                tn_from = item['from']
-                tn_data = item['date']
-                result = {'from': tn_from, 'link': link, 'date': tn_data}
-                results.append(result)
+            if not isinstance(item, dict):
+                print(f"Skipping invalid item: {item}")
+                continue
                 
-                # Send WebSocket update
-                channel_layer = get_channel_layer()
-                async_to_sync(channel_layer.group_send)(
-                    f"client_{socket_id}",
-                    {
-                        'type': 'email_update',
-                        'email': email,
-                        'result': result,
-                        'email_index': email_index,
-                        'result_index': len(results)
-                    }
-                )
+            if item.get('from') == 'noreply@notifications.textnow.com':
+                try:
+                    link = parse_beautifulshop_tn(item.get('body', ''))
+                    tn_from = item.get('from', '')
+                    tn_data = item.get('date', '')
+                    result = {'from': tn_from, 'link': link, 'date': tn_data}
+                    results.append(result)
+                    
+                    # Send WebSocket update
+                    channel_layer = get_channel_layer()
+                    async_to_sync(channel_layer.group_send)(
+                        f"client_{socket_id}",
+                        {
+                            'type': 'email_update',
+                            'email': email,
+                            'result': result,
+                            'email_index': email_index,
+                            'result_index': len(results)
+                        }
+                    )
+                except Exception as e:
+                    print(f"Error processing TextNow email: {e}")
+                    continue
 
-            if item['from'] == 'info@info.textfree.us':
-                code = parse_html_tf(item['body'])
-                tf_from = item['from']
-                tf_data = item['date']
-                result = {'from': tf_from, 'code': code, 'date': tf_data}
-                results.append(result)
-                
-                # Send WebSocket update
-                channel_layer = get_channel_layer()
-                async_to_sync(channel_layer.group_send)(
-                    f"client_{socket_id}",
-                    {
-                        'type': 'email_update',
-                        'email': email,
-                        'result': result,
-                        'email_index': email_index,
-                        'result_index': len(results)
-                    }
-                )
+            if item.get('from') == 'info@info.textfree.us':
+                try:
+                    code = parse_html_tf(item.get('body', ''))
+                    tf_from = item.get('from', '')
+                    tf_data = item.get('date', '')
+                    result = {'from': tf_from, 'code': code, 'date': tf_data}
+                    results.append(result)
+                    
+                    # Send WebSocket update
+                    channel_layer = get_channel_layer()
+                    async_to_sync(channel_layer.group_send)(
+                        f"client_{socket_id}",
+                        {
+                            'type': 'email_update',
+                            'email': email,
+                            'result': result,
+                            'email_index': email_index,
+                            'result_index': len(results)
+                        }
+                    )
+                except Exception as e:
+                    print(f"Error processing TextFree email: {e}")
+                    continue
+                    
         return results
     except Exception as e:
         print(f"An error occurred while reading email for {email}: {e}")

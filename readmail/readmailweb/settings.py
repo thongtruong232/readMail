@@ -57,9 +57,17 @@ ASGI_APPLICATION = 'readmailweb.asgi.application'
 CACHES = {
     'default': {
         'BACKEND': 'django_redis.cache.RedisCache',
-        'LOCATION': 'redis://redis:6379/1',
+        'LOCATION': 'redis://default:thongtruong232@207.148.69.229:6380/1',
         'OPTIONS': {
             'CLIENT_CLASS': 'django_redis.client.DefaultClient',
+            'PASSWORD': 'thongtruong232',
+            'SOCKET_CONNECT_TIMEOUT': 5,
+            'SOCKET_TIMEOUT': 5,
+            'RETRY_ON_TIMEOUT': True,
+            'CONNECTION_POOL_KWARGS': {
+                'max_connections': 100,
+                'timeout': 20
+            }
         }
     }
 }
@@ -68,7 +76,9 @@ CHANNEL_LAYERS = {
     'default': {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
         'CONFIG': {
-            "hosts": [('redis', 6379)],
+            "hosts": [f"redis://default:thongtruong232@207.148.69.229:6380/0"],
+            "capacity": 1500,
+            "expiry": 10,
         },
     },
 }
