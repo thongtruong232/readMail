@@ -718,21 +718,68 @@
         let pastedData = e.clipboardData.getData('text');
         pastedData = pastedData.trim();
         e.preventDefault();
-        document.execCommand('insertText', false, pastedData);
-        saveInputValue(); // Lưu giá trị sau khi paste
+        
+        // Thêm dấu xuống dòng nếu chưa có ở cuối
+        if (!pastedData.endsWith('\n')) {
+            pastedData += '\n';
+        }
+        
+        // Lấy vị trí hiện tại của con trỏ
+        const input = e.target;
+        const start = input.selectionStart;
+        const end = input.selectionEnd;
+        const value = input.value;
+        
+        // Chèn text đã paste vào vị trí con trỏ
+        const newValue = value.substring(0, start) + pastedData + value.substring(end);
+        input.value = newValue;
+        
+        // Tính toán vị trí mới cho con trỏ (cuối dòng vừa paste)
+        const lines = newValue.split('\n');
+        const currentLine = newValue.substring(0, start).split('\n').length;
+        const position = newValue.split('\n').slice(0, currentLine).join('\n').length + pastedData.length;
+        
+        // Đặt con trỏ vào vị trí mới
+        setTimeout(() => {
+            input.setSelectionRange(position, position);
+            input.focus();
+        }, 0);
+        
+        saveInputValue();
     });
 
     // Xử lý input
     document.querySelector('.email-input').addEventListener('input', function(e) {
         let value = e.target.value;
         e.target.value = value.trim();
-        saveInputValue(); // Lưu giá trị sau khi trim
+        saveInputValue();
+        
+        // Đặt con trỏ xuống dòng mới nếu đang ở cuối dòng
+        const input = e.target;
+        const lines = input.value.split('\n');
+        const currentLine = input.value.substring(0, input.selectionStart).split('\n').length;
+        const position = input.value.split('\n').slice(0, currentLine).join('\n').length + 1;
+        input.setSelectionRange(position, position);
     });
 
-    // Đặt con trỏ về đầu
-    document.querySelector('.email-input').addEventListener('input', function(e) {
-        const input = e.target;
-        input.setSelectionRange(0, 0);
+    // Xử lý keydown để thêm xuống dòng khi nhấn Enter
+    document.querySelector('.email-input').addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            const input = e.target;
+            const start = input.selectionStart;
+            const end = input.selectionEnd;
+            const value = input.value;
+            
+            // Thêm xuống dòng mới
+            input.value = value.substring(0, start) + '\n' + value.substring(end);
+            
+            // Đặt con trỏ xuống dòng mới
+            const newPosition = start + 1;
+            input.setSelectionRange(newPosition, newPosition);
+            
+            saveInputValue();
+        }
     });
   </script>
 
